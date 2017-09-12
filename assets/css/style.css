@@ -1,0 +1,162 @@
+
+#keyboardtrigger{
+	position: relative;
+	top: 100px;
+	background-color: transparent;
+	border:transparent;
+	height: 0px;
+	z-index: 0;
+}
+
+#position{
+	position: fixed;
+	height: 30px;
+	width: 30%;
+	top: 45%;
+	right: 68%;
+}
+
+#wins {
+	padding-top: 1%; 
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 2%; 
+	font-size: 341%;
+	display: block;
+	width: 150%;
+}
+
+#wins1 {
+	padding-top: 1%; 
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 2%; 
+	font-size: 341%;
+	display: inline;
+	width: 30%;
+	position: relative;
+	top: -67%;
+	right: -55%;
+}
+
+
+
+
+
+#position2{
+	position: fixed;
+	height: 30px;
+	width: 30%;
+	top: 45%;
+	right: 21%;
+}
+
+#losses {
+	padding-top: 1%; 
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 2%; 
+	font-size: 341%;
+	display: block;
+	width: 150%;
+
+}
+
+#losses1 {
+	padding-top: 1%; 
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 2%; 
+	font-size: 341%;
+	display: inline;
+	width: 30%;
+	position: relative;
+	top: -67%;
+	right: -55%;
+}
+
+
+
+
+#position3{
+	position: fixed;
+	height: 30px;
+	width: 30%;
+	top: 65%;
+	right: 68%;
+}
+
+
+#left {
+	padding-top: 1%; 
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 2%; 
+	font-size: 341%;
+	display: block;
+	width: 150%;
+}
+
+#left1 {
+	padding-top: 1%; 
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 2%; 
+	font-size: 341%;
+	display: inline;
+	width: 30%;
+	position: relative;
+	top: -67%;
+	right: -55%;
+}
+
+
+
+
+
+#position4{
+	position: fixed;
+	height: 30px;
+	width: 30%;
+	top: 65%;
+	right: 21%;
+}
+
+#guessed {
+	padding-top: 1%; 
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 2%; 
+	font-size: 341%;
+	display: block;
+	width: 150%;
+}
+
+#guessed1 {
+	padding-top: 1%; 
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-bottom: 2%; 
+	font-size: 341%;
+	display: inline;
+	width: 30%;
+	position: relative;
+	top: -67%;
+	right: -8%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
